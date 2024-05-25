@@ -46,12 +46,17 @@ Pizza Nation leverages a modern tech stack to fuel its delicious functionality:
 **Screenshots**
 
 ![Screenshots of website](https://github.com/Hardik242/Pizza-Nation/blob/b2e4e3ee15ed5f3d1b99451614d3226ff29551cd/screenshots/1.png)
-*Screenshot 1
+** Screenshot ** 1
+
 ![Screenshots of website](https://github.com/Hardik242/Pizza-Nation/blob/b2e4e3ee15ed5f3d1b99451614d3226ff29551cd/screenshots/2.png)
-*Screenshot 2
+** Screenshot ** 2
+
 ![Screenshots of website](https://github.com/Hardik242/Pizza-Nation/blob/b2e4e3ee15ed5f3d1b99451614d3226ff29551cd/screenshots/3.png)
-*Screenshot 3
+** Screenshot ** 3
+
 ![Screenshots of website](https://github.com/Hardik242/Pizza-Nation/blob/b2e4e3ee15ed5f3d1b99451614d3226ff29551cd/screenshots/4.png)
-*Screenshot 4
+** Screenshot ** 4
+
 ![Screenshots of website](https://github.com/Hardik242/Pizza-Nation/blob/b2e4e3ee15ed5f3d1b99451614d3226ff29551cd/screenshots/5.png)
-*Screenshot 5
+** Screenshot ** 5
+
